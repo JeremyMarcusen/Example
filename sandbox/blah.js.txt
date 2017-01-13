@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 print("DOOM");
 print("MUAHAHAHAHHAHAHA");
-=======
->>>>>>> parent of d3dcbd7... Testing callbacks
